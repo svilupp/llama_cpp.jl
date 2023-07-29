@@ -1,0 +1,8 @@
+[[llama_cpp]]
+arch = "aarch64"
+git-tree-sha1 = "9b75f107cfc237d11b901342b84e724445754599"
+os = "macos"
+
+    [[llama_cpp.download]]
+    sha256 = "6ce4bc97249610a14ea6082b2e62ac96e4d98aa1b368f63001e6ea7377ec9a80"
+    url = "https://github.com/svilupp/llama_cpp.jl/releases/download/llama_cpp-v0.0.12+1/llama_cpp.v0.0.12.aarch64-apple-darwin.tar.gz"
